@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**summerstore/summerstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 **你安静了夏天**，目前担任浙江伟星实业发展股份有限公司（Zhejiang Weixing Industrial Development Co., Ltd.）的研发技术经理，专注于后端开发领域。公司位于风景秀丽的浙江台州（Taizhou, Zhejiang），在这里，我主导了多个关键项目，主要涉及制造业、产业协同、PDM（产品数据管理）和 QMS（质量管理系统）等方面。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 在制造业领域，我主导了多个后端系统的开发，包括 PDM 和 QMS，这些系统帮助公司更好地管理产品数据和质量控制流程，提高了生产效率和产品质量。通过引入先进的技术架构和优化数据流程，显著提升了系统的可扩展性和可维护性。
+- 📈 作为技术经理，我不仅关注技术实现，还注重技术与业务的结合。我擅长从业务需求出发，制定合理的技术方案，确保技术投入能够为业务带来实际价值。在项目管理方面，我熟练运用敏捷开发方法，合理规划项目进度，有效控制风险，确保项目按时交付。
+- 📚 技术领域方面，我对 Java 技术栈有着深入的研究和丰富的实践经验，熟练掌握 Spring Boot、MyBatis 等框架。同时，我也对新兴技术保持敏锐的洞察力，积极探索如 Kotlin、Rust 等语言在后端开发中的应用潜力，以及容器化、服务网格等云原生技术在系统架构中的实践。
+- 🤝 我热衷于开源社区，积极参与开源项目的贡献和维护。我相信开源的力量能够汇聚全球智慧，推动技术的快速发展。此外，我也喜欢在技术社区分享自己的经验和见解，帮助更多开发者解决实际问题，共同进步。
+
+## 展望未来
+
+🚀 展望未来，我希望能够与更多优秀的开发者和团队合作，共同探索后端开发的新边界，为用户提供更加卓越的软件产品和服务。如果你对后端开发有任何想法，或者想探讨技术管理的经验，欢迎随时与我交流！
+
+## 联系方式
+
+📍 **位置**：浙江台州，中国
+
+📫 邮箱：[cnsummerstore@gmail.com](mailto:cnsummerstore@gmail.com)
+
