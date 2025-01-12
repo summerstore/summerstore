@@ -1,3 +1,4 @@
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=summerstore&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 # Hi there 👋
 
 我是 **你安静了夏天**，目前担任浙江伟星实业发展股份有限公司（Zhejiang Weixing Industrial Development Co., Ltd.）的研发技术经理，专注于后端开发领域。公司位于风景秀丽的浙江台州（Taizhou, Zhejiang），在这里，我主导了多个关键项目，主要涉及制造业、产业协同、PDM（产品数据管理）和 QMS（质量管理系统）等方面。
@@ -18,4 +19,5 @@
 📍 **位置**：浙江台州，中国
 
 📫 邮箱：[cnsummerstore@gmail.com](mailto:cnsummerstore@gmail.com)
+
 
