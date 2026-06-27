@@ -1,23 +1,76 @@
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=summerstore&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-# Hi there 👋
+<div align="center">
 
-我是 **你安静了夏天**，目前担任浙江伟星实业发展股份有限公司（Zhejiang Weixing Industrial Development Co., Ltd.）的研发技术经理，专注于后端开发领域。公司位于风景秀丽的浙江台州（Taizhou, Zhejiang），在这里，我主导了多个关键项目，主要涉及制造业、产业协同、PDM（产品数据管理）和 QMS（质量管理系统）等方面。
+# Hi, I'm 你安静了夏天 👋
+
+**后端开发 / 技术管理 / 制造业数字化**
+
+专注 Java 后端、企业级系统架构与制造业数字化落地，长期参与并主导 PDM、QMS、产业协同等系统建设。
+
+<p>
+  <a href="mailto:cnsummerstore@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-cnsummerstore%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <img alt="Location" src="https://img.shields.io/badge/Taizhou-Zhejiang-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20Engineering-22C55E?style=flat-square">
+</p>
+
+</div>
+
+---
 
 ## 关于我
 
-- 👨‍💻 在制造业领域，我主导了多个后端系统的开发，包括 PDM 和 QMS，这些系统帮助公司更好地管理产品数据和质量控制流程，提高了生产效率和产品质量。通过引入先进的技术架构和优化数据流程，显著提升了系统的可扩展性和可维护性。
-- 📈 作为技术经理，我不仅关注技术实现，还注重技术与业务的结合。我擅长从业务需求出发，制定合理的技术方案，确保技术投入能够为业务带来实际价值。在项目管理方面，我熟练运用敏捷开发方法，合理规划项目进度，有效控制风险，确保项目按时交付。
-- 📚 技术领域方面，我对 Java 技术栈有着深入的研究和丰富的实践经验，熟练掌握 Spring Boot、MyBatis 等框架。同时，我也对新兴技术保持敏锐的洞察力，积极探索如 Kotlin、Rust 等语言在后端开发中的应用潜力，以及容器化、服务网格等云原生技术在系统架构中的实践。
-- 🤝 我热衷于开源社区，积极参与开源项目的贡献和维护。我相信开源的力量能够汇聚全球智慧，推动技术的快速发展。此外，我也喜欢在技术社区分享自己的经验和见解，帮助更多开发者解决实际问题，共同进步。
+- 目前在 **浙江伟星实业发展股份有限公司** 担任研发技术经理，主要负责后端研发、系统架构和团队协作。
+- 深耕制造业数字化场景，熟悉 **PDM、QMS、产业协同、质量追溯、业务流程数字化** 等系统建设。
+- 关注技术与业务价值的结合，擅长从业务流程出发拆解系统边界、数据模型和交付节奏。
+- 喜欢稳定、清晰、可演进的工程实践，也持续关注 Kotlin、Rust、云原生和 AI 工程化等方向。
 
-## 展望未来
+## 技术栈
 
-🚀 展望未来，我希望能够与更多优秀的开发者和团队合作，共同探索后端开发的新边界，为用户提供更加卓越的软件产品和服务。如果你对后端开发有任何想法，或者想探讨技术管理的经验，欢迎随时与我交流！
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-111827?style=for-the-badge">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
-## 联系方式
+## 我擅长的事情
 
-📍 **位置**：浙江台州，中国
+| 方向 | 关键词 |
+| --- | --- |
+| 后端架构设计 | Spring Boot、MyBatis、RESTful API、权限与流程建模 |
+| 制造业系统建设 | PDM、QMS、主数据、质量过程、跨部门协同 |
+| 工程交付管理 | 敏捷迭代、风险控制、技术方案评审、团队协作 |
+| 系统演进优化 | 性能优化、数据链路梳理、可维护性、可扩展性 |
 
-📫 邮箱：[cnsummerstore@gmail.com](mailto:cnsummerstore@gmail.com)
+## 正在关注
 
+- 以更低成本提升企业级系统的稳定性、可观测性和交付效率。
+- 探索 AI 在研发提效、需求分析和知识沉淀中的实际价值。
+- 将云原生能力更自然地融入传统制造业系统架构。
 
+## GitHub 数据
+
+<div align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=summerstore&locale=cn&show_icons=true&rank_icon=github&hide_border=true&theme=transparent">
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerstore&layout=compact&hide_border=true&theme=transparent">
+</div>
+
+## 联系我
+
+- 📍 浙江台州，中国
+- 📫 [cnsummerstore@gmail.com](mailto:cnsummerstore@gmail.com)
+
+---
+
+<div align="center">
+
+把复杂业务讲清楚，把系统边界设计稳，把交付节奏推进好。
+
+</div>
